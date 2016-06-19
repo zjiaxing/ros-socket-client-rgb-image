@@ -1,1 +1,1 @@
-# ros-socket-rgb-image
+# ros-socket-client-rgb-image
