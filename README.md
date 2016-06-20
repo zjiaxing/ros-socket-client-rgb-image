@@ -3,12 +3,14 @@
 ROS version indigo   
 =====================================================================
 
-How to build rgb_client ros package   
+How to build rgb_client ros package  
+=====================================================================
 1) Clone this project to your catkin's workspace src folder   
 2) Running catkin_make to build rgb_server and rgb_client   
 
 
-How to run rgb_client ros package   
+How to run rgb_client ros package  
+=====================================================================
 There're two ways to run rgb_client ros package   
 
 1.roslaunch freenect_launch freenect.launch   
